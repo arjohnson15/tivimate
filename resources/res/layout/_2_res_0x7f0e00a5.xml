@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/_2_res_0x7f0b01c6"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="?attr/_2_res_0x7f0402be"
+    android:transitionName="guidedactions_root2"
+    android:transitionGroup="false">
+    <androidx.leanback.widget.NonOverlappingView
+        android:id="@+id/_2_res_0x7f0b01c4"
+        android:background="?attr/_2_res_0x7f0402b3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:transitionName="guidedactions_list_background2"/>
+    <androidx.leanback.widget.NonOverlappingFrameLayout
+        android:id="@+id/_2_res_0x7f0b01ba"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:transitionName="guidedactions_content2"
+        android:transitionGroup="false">
+        <androidx.leanback.widget.VerticalGridView
+            android:id="@+id/_2_res_0x7f0b01c2"
+            android:transitionGroup="true"
+            style="?attr/_2_res_0x7f0402bd"/>
+    </androidx.leanback.widget.NonOverlappingFrameLayout>
+</RelativeLayout>

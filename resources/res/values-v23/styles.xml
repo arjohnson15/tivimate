@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_2_res_0x7f140034" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="_2_res_0x7f14003e" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </style>
+    <style name="_2_res_0x7f14004d" parent="@style/_2_res_0x7f1400b1">
+    </style>
+    <style name="_2_res_0x7f140054" parent="@style/_2_res_0x7f1400b2">
+    </style>
+    <style name="_2_res_0x7f1400b1" parent="@style/_2_res_0x7f1400af">
+        <item name="_2_res_0x7f040003">?android:attr/actionBarItemBackground</item>
+        <item name="_2_res_0x7f040010">?android:attr/actionMenuTextAppearance</item>
+        <item name="_2_res_0x7f040011">?android:attr/actionMenuTextColor</item>
+        <item name="_2_res_0x7f040021">?android:attr/actionOverflowButtonStyle</item>
+        <item name="_2_res_0x7f040195">@drawable/_2_res_0x7f080043</item>
+        <item name="_2_res_0x7f0404b8">?android:attr/ratingBarStyleIndicator</item>
+        <item name="_2_res_0x7f0404b9">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_2_res_0x7f1400b2" parent="@style/_2_res_0x7f1400b0">
+        <item name="_2_res_0x7f040003">?android:attr/actionBarItemBackground</item>
+        <item name="_2_res_0x7f040010">?android:attr/actionMenuTextAppearance</item>
+        <item name="_2_res_0x7f040011">?android:attr/actionMenuTextColor</item>
+        <item name="_2_res_0x7f040021">?android:attr/actionOverflowButtonStyle</item>
+        <item name="_2_res_0x7f040195">@drawable/_2_res_0x7f080043</item>
+        <item name="_2_res_0x7f0404b8">?android:attr/ratingBarStyleIndicator</item>
+        <item name="_2_res_0x7f0404b9">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_2_res_0x7f1400cb" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </style>
+    <style name="_2_res_0x7f1400d1" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="_2_res_0x7f1400dd" parent="@android:style/Widget.Material.EditText">
+        <item name="android:breakStrategy">0</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_2_res_0x7f1400f2" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="_2_res_0x7f1400f3" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="_2_res_0x7f1400fa" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">1</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_2_res_0x7f140122" parent="@style/_2_res_0x7f140012">
+        <item name="_2_res_0x7f0400bd">?android:attr/colorBackgroundFloating</item>
+    </style>
+    <style name="_2_res_0x7f140285" parent="@style/_2_res_0x7f140248">
+        <item name="android:textColor">@color/_2_res_0x7f0600a3</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_2_res_0x7f140287" parent="@style/_2_res_0x7f140248">
+        <item name="android:textColor">@color/_2_res_0x7f0602ba</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_2_res_0x7f14028a" parent="@style/_2_res_0x7f140248">
+        <item name="android:textColor">@color/_2_res_0x7f0603c2</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_2_res_0x7f140554" parent="@style/_2_res_0x7f140119">
+        <item name="android:popupBackground">?attr/_2_res_0x7f040496</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="_2_res_0x7f140555" parent="@style/_2_res_0x7f14011a">
+        <item name="android:popupBackground">?attr/_2_res_0x7f040496</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+</resources>

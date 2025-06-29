@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView
+        android:textAppearance="@style/_2_res_0x7f1401ee"
+        android:gravity="start|center_vertical"
+        android:id="@+id/_2_res_0x7f0b011c"
+        android:duplicateParentState="true"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:maxLines="1"
+        android:drawablePadding="@dimen/_2_res_0x7f070084"
+        android:layout_weight="1"/>
+    <ViewStub
+        android:id="@+id/_2_res_0x7f0b011b"
+        android:layout="@layout/design_menu_item_action_area"
+        android:inflatedId="@+id/_2_res_0x7f0b011a"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+</merge>

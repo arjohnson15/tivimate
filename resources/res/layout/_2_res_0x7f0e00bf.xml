@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.leanback.widget.NonOverlappingLinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/_2_res_0x7f0b023f"
+        android:clipToPadding="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?attr/_2_res_0x7f0404d7"/>
+</merge>

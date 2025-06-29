@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.leanback.widget.GuidanceStylingRelativeLayout
+        android:id="@+id/_2_res_0x7f0b01b4"
+        style="?attr/_2_res_0x7f040298">
+        <ImageView
+            android:id="@+id/_2_res_0x7f0b01b6"
+            style="?attr/_2_res_0x7f04029b"/>
+        <TextView
+            android:id="@+id/_2_res_0x7f0b01b3"
+            style="?attr/_2_res_0x7f040297"/>
+        <TextView
+            android:id="@+id/_2_res_0x7f0b01b7"
+            style="?attr/_2_res_0x7f04029c"/>
+        <TextView
+            android:id="@+id/_2_res_0x7f0b01b5"
+            style="?attr/_2_res_0x7f040299"/>
+    </androidx.leanback.widget.GuidanceStylingRelativeLayout>
+</FrameLayout>

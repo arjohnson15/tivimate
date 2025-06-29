@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:gravity="start|center_vertical"
+        android:id="@+id/_2_res_0x7f0b0290"
+        android:focusable="true"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_2_res_0x7f0703ba"
+        style="?attr/_2_res_0x7f0403c6"/>
+    <include layout="@layout/_2_res_0x7f0e00f9"/>
+</LinearLayout>

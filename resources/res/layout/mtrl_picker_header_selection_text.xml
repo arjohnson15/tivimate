@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="start|bottom"
+    android:id="@+id/_2_res_0x7f0b02a1"
+    android:paddingBottom="@dimen/_2_res_0x7f0703d1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:autoSizeTextType="1"
+    app:firstBaselineToTopHeight="@dimen/_2_res_0x7f0703d5"
+    app:lineHeight="@dimen/_2_res_0x7f0703c6"
+    style="?attr/_2_res_0x7f0403c3"/>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_2_res_0x7f070000">24dp</dimen>
+    <dimen name="_2_res_0x7f070001">80dp</dimen>
+    <dimen name="_2_res_0x7f070002">64dp</dimen>
+    <dimen name="_2_res_0x7f070003">8dp</dimen>
+    <dimen name="_2_res_0x7f070004">8dp</dimen>
+    <dimen name="_2_res_0x7f070017">580dp</dimen>
+    <dimen name="_2_res_0x7f070089">320dp</dimen>
+    <dimen name="_2_res_0x7f07008c">0dp</dimen>
+    <dimen name="_2_res_0x7f07008e">2dp</dimen>
+    <dimen name="_2_res_0x7f070090">24dp</dimen>
+    <dimen name="_2_res_0x7f070091">576dp</dimen>
+    <dimen name="_2_res_0x7f070092">320dp</dimen>
+    <dimen name="_2_res_0x7f070095">@dimen/_2_res_0x7f070094</dimen>
+    <dimen name="_2_res_0x7f070098">160dp</dimen>
+    <dimen name="_2_res_0x7f07039b">64dp</dimen>
+    <dimen name="_2_res_0x7f070448">64dp</dimen>
+</resources>

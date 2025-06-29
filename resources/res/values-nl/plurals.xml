@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Wachtwoord moet minimaal %d karakter bevatten</item>
+        <item quantity="other">Wachtwoord moet minimaal %d karakters bevatten</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">%d seconde vooruitspoelen</item>
+        <item quantity="other">%d seconden vooruitspoelen</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">%d seconde terugspoelen</item>
+        <item quantity="other">%d seconden terugspoelen</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d bron</item>
+        <item quantity="other">%d bronnen</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d seizoen</item>
+        <item quantity="other">%d seizoenen</item>
+    </plurals>
+</resources>

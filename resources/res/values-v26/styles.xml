@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_2_res_0x7f14004d" parent="@style/_2_res_0x7f1400b7">
+    </style>
+    <style name="_2_res_0x7f140054" parent="@style/_2_res_0x7f1400b8">
+    </style>
+    <style name="_2_res_0x7f1400b7" parent="@style/_2_res_0x7f1400b1">
+        <item name="_2_res_0x7f040135">?android:attr/colorError</item>
+    </style>
+    <style name="_2_res_0x7f1400b8" parent="@style/_2_res_0x7f1400b2">
+        <item name="_2_res_0x7f040135">?android:attr/colorError</item>
+    </style>
+    <style name="_2_res_0x7f1400b9" parent="@style/_2_res_0x7f1400c3">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="_2_res_0x7f1400fc" parent="@style/_2_res_0x7f1400b9">
+    </style>
+    <style name="_2_res_0x7f140310" parent="@style/_2_res_0x7f14030e">
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="_2_res_0x7f1403f8" parent="@android:style/Widget">
+        <item name="android:background">?attr/_2_res_0x7f04015a</item>
+        <item name="android:stateListAnimator">@animator/_2_res_0x7f020000</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

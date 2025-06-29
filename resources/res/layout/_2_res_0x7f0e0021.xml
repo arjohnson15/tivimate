@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="18sp"
+        android:textColor="@color/_2_res_0x7f060054"
+        android:gravity="center"
+        android:id="@+id/_2_res_0x7f0b0256"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_2_res_0x7f130048"/>
+    <EditText
+        android:id="@+id/_2_res_0x7f0b0255"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_2_res_0x7f070060"
+        android:hint="@string/_2_res_0x7f130046"
+        android:singleLine="true"/>
+    <Button
+        android:id="@+id/_2_res_0x7f0b0257"
+        android:layout_marginTop="@dimen/_2_res_0x7f070060"
+        android:text="@string/_2_res_0x7f13004a"
+        style="@style/_2_res_0x7f140167"/>
+</LinearLayout>

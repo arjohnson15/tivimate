@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Паролата трябва да е най-малко %d  характекра дължина</item>
+        <item quantity="other">Паролата трябва да е най-малко %d характера дължина</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Превъртане с %d секунда напред</item>
+        <item quantity="other">Превъртане с(ъс) %d секунди напред</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Превъртане с %d секунда назад</item>
+        <item quantity="other">Превъртане с(ъс) %d секунди назад</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d източник</item>
+        <item quantity="other">%d източник</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d сезон</item>
+        <item quantity="other">%d сезони</item>
+    </plurals>
+</resources>

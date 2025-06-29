@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/_2_res_0x7f0600cd">
+    <item android:id="@android:id/mask">
+        <selector android:constantSize="true">
+            <item android:state_focused="true">
+                <shape android:shape="oval">
+                    <solid android:color="#000000"/>
+                    <size
+                        android:height="@dimen/_2_res_0x7f070103"
+                        android:width="@dimen/_2_res_0x7f070103"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

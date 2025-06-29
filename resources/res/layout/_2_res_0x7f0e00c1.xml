@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:lb="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/_2_res_0x7f0b0285"
+        style="?attr/_2_res_0x7f04048b"/>
+    <FrameLayout
+        android:id="@+id/background"
+        style="?attr/_2_res_0x7f04048a">
+        <androidx.leanback.widget.MediaRowFocusView
+            android:id="@+id/_2_res_0x7f0b0284"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:alpha="0"/>
+        <LinearLayout
+            android:id="@+id/_2_res_0x7f0b0281"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:id="@+id/_2_res_0x7f0b027d"
+                style="?attr/_2_res_0x7f040483">
+                <ViewFlipper
+                    android:id="@+id/_2_res_0x7f0b0280"
+                    style="?attr/_2_res_0x7f040488"/>
+                <TextView
+                    android:id="@+id/_2_res_0x7f0b027f"
+                    style="?attr/_2_res_0x7f040485"/>
+                <TextView
+                    android:id="@+id/_2_res_0x7f0b027e"
+                    style="?attr/_2_res_0x7f040484"/>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:id="@+id/_2_res_0x7f0b027c"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingStart="16dp"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

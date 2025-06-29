@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="@+id/_2_res_0x7f0b028c"
+    android:paddingTop="@dimen/_2_res_0x7f0703d0"
+    android:paddingBottom="@dimen/_2_res_0x7f0703ce"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <com.google.android.material.button.MaterialButton
+            android:gravity="start|center_vertical"
+            android:layout_gravity="start"
+            android:id="@+id/_2_res_0x7f0b028d"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_2_res_0x7f0703cf"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            app:icon="@drawable/_2_res_0x7f0801c0"
+            app:iconGravity="0x4"
+            app:iconPadding="4dp"
+            style="?attr/_2_res_0x7f0403ca"/>
+    </FrameLayout>
+    <com.google.android.material.button.MaterialButton
+        android:gravity="center"
+        android:id="@+id/_2_res_0x7f0b028f"
+        android:layout_width="@dimen/_2_res_0x7f070405"
+        android:layout_height="@dimen/_2_res_0x7f0703cf"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:contentDescription="@string/_2_res_0x7f13013b"
+        app:icon="@drawable/_2_res_0x7f0801be"
+        style="?attr/_2_res_0x7f0403c7"/>
+    <com.google.android.material.button.MaterialButton
+        android:gravity="center"
+        android:id="@+id/_2_res_0x7f0b028e"
+        android:layout_width="@dimen/_2_res_0x7f070405"
+        android:layout_height="@dimen/_2_res_0x7f0703cf"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:contentDescription="@string/_2_res_0x7f13013a"
+        app:icon="@drawable/_2_res_0x7f0801bd"
+        style="?attr/_2_res_0x7f0403c7"/>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.leanback.preference.LeanbackSettingsRootView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/_2_res_0x7f0b0340"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.leanback.preference.internal.OutlineOnlyWithChildrenFrameLayout
+        android:layout_gravity="end"
+        android:id="@+id/_2_res_0x7f0b0341"
+        android:layout_width="@dimen/_2_res_0x7f0701d0"
+        android:layout_height="match_parent"
+        android:elevation="@dimen/_2_res_0x7f0701a3"
+        android:outlineProvider="bounds"/>
+</androidx.leanback.preference.LeanbackSettingsRootView>

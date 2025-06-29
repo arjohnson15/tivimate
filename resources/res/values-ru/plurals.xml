@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Пароль должен быть длиной, как минимум, %d символ</item>
+        <item quantity="few">Пароль должен быть длиной, как минимум, %d символа</item>
+        <item quantity="many">Пароль должен быть длиной, как минимум, %d символов</item>
+        <item quantity="other">Пароль должен быть длиной, как минимум, %d символов</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Перемотать на %d секунду вперед</item>
+        <item quantity="few">Перемотать на %d секунды вперед</item>
+        <item quantity="many">Перемотать на %d секунд вперед</item>
+        <item quantity="other">Перемотать на %d секунды вперед</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Перемотать на %d секунду назад</item>
+        <item quantity="few">Перемотать на %d секунды назад</item>
+        <item quantity="many">Перемотать на %d секунд назад</item>
+        <item quantity="other">Перемотать на %d секунды назад</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d источник</item>
+        <item quantity="few">%d источника</item>
+        <item quantity="many">%d источников</item>
+        <item quantity="other">%d источников</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d сезон</item>
+        <item quantity="few">%d сезона</item>
+        <item quantity="many">%d сезонов</item>
+        <item quantity="other">%d сезонов</item>
+    </plurals>
+</resources>

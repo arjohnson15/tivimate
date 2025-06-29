@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="other">密码长度必须最少为%d个字符</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">快进 %d 秒</item>
+        <item quantity="other">快进 %d 秒</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">快退 %d 秒</item>
+        <item quantity="other">快退 %d 秒</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="other">%d个源</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="other">%d 季</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <View
+        android:id="@+id/_2_res_0x7f0b0333"
+        android:background="@drawable/_2_res_0x7f0801a4"
+        android:layout_width="@dimen/_2_res_0x7f0701c4"
+        android:layout_height="@dimen/_2_res_0x7f0701c4"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/_2_res_0x7f080193"
+        android:contentDescription="@string/_2_res_0x7f13017f"/>
+</merge>

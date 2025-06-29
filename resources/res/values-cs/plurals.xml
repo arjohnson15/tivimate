@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Heslo musí mít alespoň %d znaků</item>
+        <item quantity="few">Hesel musí mít alespoň %d znaků</item>
+        <item quantity="many">Hesel musí mít alespoň %d znaků</item>
+        <item quantity="other">Heslo musí mít alespoň %d znaků</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Posunout vpřed o %d sekundu</item>
+        <item quantity="few">Posunout vpřed o %d sekundy</item>
+        <item quantity="many">Posunout vpřed o %d sekundy</item>
+        <item quantity="other">Posunout vpřed o %d sekund</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Přetočit zpět o %d sekundu</item>
+        <item quantity="few">Přetočit zpět o %d sekundy</item>
+        <item quantity="many">Přetočit zpět o %d sekundy</item>
+        <item quantity="other">Přetočit zpět o %d sekund</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d zdroj</item>
+        <item quantity="few">%d zdrojů</item>
+        <item quantity="many">%d zdrojů</item>
+        <item quantity="other">%d zdroj</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d sezóna</item>
+        <item quantity="few">%d sezón</item>
+        <item quantity="many">%d sezón</item>
+        <item quantity="other">%d sezóna</item>
+    </plurals>
+</resources>

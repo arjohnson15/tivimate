@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/_2_res_0x7f0b01fb"
+        style="?attr/_2_res_0x7f040486"/>
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/_2_res_0x7f0b02e7"
+        android:visibility="gone"
+        android:layout_width="@dimen/_2_res_0x7f07018c"
+        android:layout_height="@dimen/_2_res_0x7f07018c"
+        android:src="@drawable/_2_res_0x7f08018e"
+        android:scaleType="fitStart"
+        android:adjustViewBounds="true"/>
+    <androidx.leanback.widget.MediaNowPlayingView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/_2_res_0x7f0b02fc"
+        android:visibility="gone"
+        android:layout_width="@dimen/_2_res_0x7f07018a"
+        android:layout_height="@dimen/_2_res_0x7f07018a"/>
+</merge>

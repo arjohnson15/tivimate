@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_2_res_0x7f140400" parent="@style/_2_res_0x7f1400fe">
+        <item name="_2_res_0x7f04057d">_2_res_0x7f0b00bc</item>
+        <item name="_2_res_0x7f04058a">_2_res_0x7f0b0199</item>
+    </style>
+    <style name="_2_res_0x7f140541" parent="@style/_2_res_0x7f1403f2">
+        <item name="android:textAppearance">?attr/_2_res_0x7f0405ac</item>
+        <item name="android:textColor">?attr/_2_res_0x7f040146</item>
+        <item name="android:ellipsize">3</item>
+        <item name="android:layout_gravity">0x800033</item>
+        <item name="android:layout_width">-1</item>
+        <item name="android:layout_height">-2</item>
+        <item name="android:maxLines">@integer/_2_res_0x7f0c005a</item>
+    </style>
+    <style name="_2_res_0x7f140544" parent="@style/_2_res_0x7f140116">
+        <item name="android:layout_gravity">0x800053</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/_2_res_0x7f0b0266"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:layoutDirection="ltr">
+    <include
+        android:id="@+id/_2_res_0x7f0b026f"
+        layout="@layout/_2_res_0x7f0e00e9"/>
+    <include layout="@layout/_2_res_0x7f0e00e2"/>
+    <include
+        android:id="@+id/_2_res_0x7f0b0272"
+        layout="@layout/_2_res_0x7f0e00e9"/>
+</LinearLayout>

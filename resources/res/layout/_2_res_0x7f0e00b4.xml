@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:layout_gravity="center"
+    android:orientation="horizontal"
+    android:id="@+id/_2_res_0x7f0b02ef"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_focused="true"
+        android:drawable="@drawable/_2_res_0x7f080093"/>
+    <item
+        android:state_selected="true"
+        android:drawable="@drawable/_2_res_0x7f080093"/>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#16ffffff"/>
+            <corners android:radius="@dimen/_2_res_0x7f07006a"/>
+        </shape>
+    </item>
+</selector>

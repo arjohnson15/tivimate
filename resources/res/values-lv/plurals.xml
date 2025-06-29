@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="zero">Parolei jābūt vismaz %d zīmju</item>
+        <item quantity="one">Parolei jābūt vismaz %d zīmju</item>
+        <item quantity="other">Parolēm jābūt vismaz %d zīmju</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="zero">Pārtīt uz priekšu par %d sekundēm</item>
+        <item quantity="one">Pārtīt uz priekšu par %d sekundi</item>
+        <item quantity="other">Pārtīt uz priekšu par %d sekundēm</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="zero">Attīt atpakaļ par %d sekundēm</item>
+        <item quantity="one">Attīt atpakaļ par %d sekundi</item>
+        <item quantity="other">Attīt atpakaļ par %d sekundēm</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="zero">%d avots</item>
+        <item quantity="one">%d avots</item>
+        <item quantity="other">%d avoti</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="zero">%d sezona</item>
+        <item quantity="one">%d sezona</item>
+        <item quantity="other">%d sezonas</item>
+    </plurals>
+</resources>

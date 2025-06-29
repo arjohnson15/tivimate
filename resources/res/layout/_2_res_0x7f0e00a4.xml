@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.leanback.widget.GuidedActionItemContainer xmlns:android="http://schemas.android.com/apk/res/android" style="?attr/_2_res_0x7f0402a7">
+    <androidx.leanback.widget.CheckableImageView
+        android:id="@+id/_2_res_0x7f0b01bb"
+        style="?attr/_2_res_0x7f0402a5"/>
+    <ImageView
+        android:id="@+id/_2_res_0x7f0b01bf"
+        style="?attr/_2_res_0x7f0402aa"/>
+    <androidx.leanback.widget.NonOverlappingLinearLayout
+        android:id="@+id/_2_res_0x7f0b01bd"
+        style="?attr/_2_res_0x7f0402a8">
+        <androidx.leanback.widget.GuidedActionEditText
+            android:id="@+id/_2_res_0x7f0b01c0"
+            style="?attr/_2_res_0x7f0402ab"/>
+        <androidx.leanback.widget.GuidedActionEditText
+            android:id="@+id/_2_res_0x7f0b01be"
+            style="?attr/_2_res_0x7f0402a9"/>
+    </androidx.leanback.widget.NonOverlappingLinearLayout>
+    <ImageView
+        android:id="@+id/_2_res_0x7f0b01bc"
+        style="?attr/_2_res_0x7f0402a6"/>
+</androidx.leanback.widget.GuidedActionItemContainer>

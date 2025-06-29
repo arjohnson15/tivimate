@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Лозинка мора бити дугачка најмање %d карактер</item>
+        <item quantity="few">Лозинка мора бити дугачка најмање %d карактера</item>
+        <item quantity="other">Лозинка мора бити дугачка најмање %d карактера</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Премотајте %d секунду унапред</item>
+        <item quantity="few">Премотајте %d секунде унапред</item>
+        <item quantity="other">Премотајте %d секунди унапред</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Премотајте %d секунду уназад</item>
+        <item quantity="few">Премотајте %d секунде уназад</item>
+        <item quantity="other">Премотајте %d секунди уназад</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d извор</item>
+        <item quantity="few">%d извори</item>
+        <item quantity="other">%d извори</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d сезона</item>
+        <item quantity="few">%d сезоне</item>
+        <item quantity="other">%d сезона</item>
+    </plurals>
+</resources>

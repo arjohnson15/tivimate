@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Slaptažodis turi būti bent %d simbolio</item>
+        <item quantity="few">Slaptažodis turi būti bent %d simbolių</item>
+        <item quantity="many">Slaptažodis turi būti bent %d simbolių</item>
+        <item quantity="other">Slaptažodis turi būti bent %d simbolių</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Prasukti pirmyn %d sekundę</item>
+        <item quantity="few">Prasukti pirmyn %d sekundes</item>
+        <item quantity="many">Prasukti pirmyn %d sekundės</item>
+        <item quantity="other">Prasukti pirmyn %d sekundžių</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Atsukti atgal %d sekundę</item>
+        <item quantity="few">Atsukti atgal %d sekundes</item>
+        <item quantity="many">Atsukti atgal %d sekundės</item>
+        <item quantity="other">Atsukti atgal %d sekundžių</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d šaltinis</item>
+        <item quantity="few">%d šaltiniai</item>
+        <item quantity="many">%d šaltinių</item>
+        <item quantity="other">%d šaltiniai</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d sezonas</item>
+        <item quantity="few">%d sezonai</item>
+        <item quantity="many">%d sezonų</item>
+        <item quantity="other">%d sezonai</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+    <slide
+        android:interpolator="@android:interpolator/fast_out_linear_in"
+        android:duration="350"
+        android:slideEdge="@integer/_2_res_0x7f0c006f">
+        <targets>
+            <target android:targetId="@+id/_2_res_0x7f0b008a"/>
+            <target android:targetId="@+id/_2_res_0x7f0b039d"/>
+        </targets>
+    </slide>
+    <slide
+        android:interpolator="@android:interpolator/fast_out_linear_in"
+        android:duration="350"
+        android:slideEdge="@integer/_2_res_0x7f0c006e">
+        <targets>
+            <target android:excludeId="@+id/_2_res_0x7f0b008a"/>
+            <target android:excludeId="@+id/_2_res_0x7f0b039d"/>
+        </targets>
+    </slide>
+    <fade
+        android:interpolator="@android:interpolator/fast_out_linear_in"
+        android:duration="350">
+        <targets>
+            <target android:excludeId="@+id/_2_res_0x7f0b008a"/>
+        </targets>
+    </fade>
+</transitionSet>

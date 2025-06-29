@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">La contraseña debe tener al menos %d caracteres de longitud</item>
+        <item quantity="other">La contraseña debe tener al menos %d caracteres de longitud</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Avanzar %d segundo</item>
+        <item quantity="other">Avanzar %d segundos</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Retroceder %d segundo</item>
+        <item quantity="other">Retroceder %d segundos</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d fuente</item>
+        <item quantity="other">%d fuente</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d Temporada</item>
+        <item quantity="other">%d Temporadas</item>
+    </plurals>
+</resources>

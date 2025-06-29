@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/_2_res_0x7f0b02b4"
+    android:paddingBottom="@dimen/_2_res_0x7f07008b"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>

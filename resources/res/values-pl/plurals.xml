@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Hasło musi mieć co najmniej %d znaków</item>
+        <item quantity="few">Hasło musi mieć co najmniej %d znaków</item>
+        <item quantity="many">Hasło musi mieć co najmniej %d znaków</item>
+        <item quantity="other">Hasło musi mieć co najmniej %d znaków</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Przewiń do przodu o %d sekundę</item>
+        <item quantity="few">Przewiń do przodu o %d sekundy</item>
+        <item quantity="many">Przewiń do przodu o %d sekund</item>
+        <item quantity="other">Przewiń do przodu o %d sekundy</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Przewiń do tyłu o %d sekundę</item>
+        <item quantity="few">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="many">Przewiń do tyłu o %d sekund</item>
+        <item quantity="other">Przewiń do tyłu o %d sekundy</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d źródło</item>
+        <item quantity="few">%d źródeł/ła</item>
+        <item quantity="many">%d źródeł/ła</item>
+        <item quantity="other">%d źródeł/ła</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d sezon</item>
+        <item quantity="few">%d sezony/ów</item>
+        <item quantity="many">%d sezony/ów</item>
+        <item quantity="other">%d sezony/ów</item>
+    </plurals>
+</resources>

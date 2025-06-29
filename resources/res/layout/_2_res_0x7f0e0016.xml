@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/_2_res_0x7f0b003e"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/_2_res_0x7f0e0014"/>
+    <androidx.appcompat.widget.ViewStubCompat
+        android:id="@+id/_2_res_0x7f0b004c"
+        android:layout="@layout/_2_res_0x7f0e0004"
+        android:inflatedId="@+id/_2_res_0x7f0b004b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</androidx.appcompat.widget.FitWindowsFrameLayout>

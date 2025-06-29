@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_gravity="start"
+        android:orientation="vertical"
+        android:id="@+id/_2_res_0x7f0b02a0"
+        android:paddingLeft="@dimen/_2_res_0x7f0703c1"
+        android:paddingRight="@dimen/_2_res_0x7f0703c1"
+        android:paddingBottom="@dimen/_2_res_0x7f0703c1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingStart="@dimen/_2_res_0x7f0703c1"
+        android:paddingEnd="@dimen/_2_res_0x7f0703c1"
+        style="?attr/_2_res_0x7f0403c2">
+        <FrameLayout
+            android:id="@+id/_2_res_0x7f0b02a2"
+            android:paddingLeft="@dimen/_2_res_0x7f0703c7"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_width="@dimen/_2_res_0x7f0703ca"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:importantForAccessibility="yes"
+            android:paddingStart="@dimen/_2_res_0x7f0703c7">
+            <include layout="@layout/_2_res_0x7f0e0108"/>
+            <include layout="@layout/mtrl_picker_header_selection_text"/>
+        </FrameLayout>
+        <include layout="@layout/mtrl_picker_header_toggle"/>
+    </LinearLayout>
+    <View
+        android:layout_gravity="end"
+        android:layout_width="@dimen/_2_res_0x7f0703c3"
+        android:layout_height="match_parent"
+        style="?attr/_2_res_0x7f0403c1"/>
+</merge>

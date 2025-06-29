@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.leanback.widget.NonOverlappingView
+        android:id="@+id/_2_res_0x7f0b0248"
+        android:background="@drawable/_2_res_0x7f08017c"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <androidx.leanback.widget.NonOverlappingView
+        android:id="@+id/_2_res_0x7f0b0246"
+        android:background="@drawable/_2_res_0x7f08017b"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0"/>
+</merge>

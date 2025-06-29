@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="zero">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+        <item quantity="one">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+        <item quantity="two">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+        <item quantity="few">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+        <item quantity="many">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+        <item quantity="other">يجب أن تتكون كلمة المرور من ٪d حرفً على الأقل</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="zero">%d مصادر</item>
+        <item quantity="one">%d مصدر</item>
+        <item quantity="two">%d مصادر</item>
+        <item quantity="few">%d مصادر</item>
+        <item quantity="many">%d مصادر</item>
+        <item quantity="other">%d مصادر</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="zero">صفر</item>
+        <item quantity="one">الأول</item>
+        <item quantity="two">الثاني</item>
+        <item quantity="few">قليل</item>
+        <item quantity="many">كثير</item>
+        <item quantity="other">أخرى</item>
+    </plurals>
+</resources>

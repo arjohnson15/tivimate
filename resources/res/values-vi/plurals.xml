@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="other">Mật khẩu phải dài ít nhất %d ký tự</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Tua nhanh %d giây</item>
+        <item quantity="other">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Tua lại %d giây</item>
+        <item quantity="other">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="other">%d nguồn</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="other">%d mùa</item>
+    </plurals>
+</resources>

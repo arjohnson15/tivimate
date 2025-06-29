@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.leanback.widget.GuidedActionItemContainer xmlns:android="http://schemas.android.com/apk/res/android" style="?attr/_2_res_0x7f0402a7">
+    <ImageView
+        android:id="@+id/_2_res_0x7f0b01bf"
+        style="?attr/_2_res_0x7f0402aa"/>
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/_2_res_0x7f0b01c0"
+        android:layout_width="wrap_content"
+        style="?attr/_2_res_0x7f0402ab"/>
+    <androidx.leanback.widget.picker.DatePicker
+        android:id="@+id/_2_res_0x7f0b01b8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="yes"/>
+</androidx.leanback.widget.GuidedActionItemContainer>

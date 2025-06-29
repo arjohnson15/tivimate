@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">Geslo mora vsebovati vsaj %d znak</item>
+        <item quantity="two">Geslo mora vsebovati vsaj %d znaka</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d znake</item>
+        <item quantity="other">Geslo mora vsebovati vsaj %d znakov</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">Premik naprej za %d sekundo</item>
+        <item quantity="two">Premik naprej za %d sekundi</item>
+        <item quantity="few">Premik naprej za %d sekunde</item>
+        <item quantity="other">Premik naprej za %d sekund</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">Premik nazaj za %d sekundo</item>
+        <item quantity="two">Premik nazaj za %d sekundi</item>
+        <item quantity="few">Premik nazaj za %d sekunde</item>
+        <item quantity="other">Premik nazaj za %d sekund</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">%d vir</item>
+        <item quantity="two">%d vira</item>
+        <item quantity="few">%d viri</item>
+        <item quantity="other">%d virov</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">%d sezona</item>
+        <item quantity="two">%d sezoni</item>
+        <item quantity="few">%d sezone</item>
+        <item quantity="other">%d sezon</item>
+    </plurals>
+</resources>

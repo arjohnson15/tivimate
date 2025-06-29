@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_2_res_0x7f110000">
+        <item quantity="one">הסיסמה חייבת להיות באורך של לפחות %d תווים</item>
+        <item quantity="two">הסיסמה חייבת להיות באורך של לפחות %d תווים</item>
+        <item quantity="many">הסיסמה חייבת להיות באורך של לפחות %d תווים</item>
+        <item quantity="other">הסיסמה חייבת להיות באורך של לפחות %d תווים</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110001">
+        <item quantity="one">הרצה %d שניות קדימה</item>
+        <item quantity="two">הרצה %d שניות קדימה</item>
+        <item quantity="other">הרצה %d שניות קדימה</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110002">
+        <item quantity="one">הרצה %d שניות אחורה</item>
+        <item quantity="two">הרצה %d שניות אחורה</item>
+        <item quantity="other">הרצה %d שניות אחורה</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110004">
+        <item quantity="one">מקור %d</item>
+        <item quantity="two">%d מקורות</item>
+        <item quantity="many">%d מקורות</item>
+        <item quantity="other">%d מקורות</item>
+    </plurals>
+    <plurals name="_2_res_0x7f110005">
+        <item quantity="one">עונה %d</item>
+        <item quantity="two">%d עונות</item>
+        <item quantity="many">%d עונות</item>
+        <item quantity="other">%d עונות</item>
+    </plurals>
+</resources>

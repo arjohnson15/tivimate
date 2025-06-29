@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:id="@+id/_2_res_0x7f0b017c"
+        android:singleLine="false"
+        style="@style/_2_res_0x7f14013f"/>
+</merge>
